@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\calculator and oredres sql project\calculator and oredres sql project\bin\Debug\calculator and oredres sql project.exe.config
+C:\Users\lenovo\source\repos\calculator and oredres sql project\calculator and oredres sql project\bin\Debug\calculator and oredres sql project.exe
+C:\Users\lenovo\source\repos\calculator and oredres sql project\calculator and oredres sql project\bin\Debug\calculator and oredres sql project.pdb
+C:\Users\lenovo\source\repos\calculator and oredres sql project\calculator and oredres sql project\obj\Debug\calculator and oredres sql project.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\calculator and oredres sql project\calculator and oredres sql project\obj\Debug\calculator and oredres sql project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\calculator and oredres sql project\calculator and oredres sql project\obj\Debug\calculator and oredres sql project.exe
+C:\Users\lenovo\source\repos\calculator and oredres sql project\calculator and oredres sql project\obj\Debug\calculator and oredres sql project.pdb
